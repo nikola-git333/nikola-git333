@@ -1,7 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/nikola-jerkan-39538b311/)
 
 ## Hello there 👋 I'm Nikola
-<br>
+![Profile views](https://komarev.com/ghpvc/?username=nikola-git333)<br>
 
 ### Python Developer. Passionate for coding and new technologies. :metal:
 

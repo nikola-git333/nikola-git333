@@ -16,7 +16,7 @@
 <br/>
 
 ### Knowledge of:
-- **Languages and tools:** `Python`,`HTML`,`CSS`,`SQL`,`Visual Studio Code`, `Yupiter Notebook`,`Data Structures`,`Postman`,`Selenium`,`Flask`,`Pandas`,`Numpy`,`Scikit-learn`,`Matplotlib`,`LLM`,`NLP`,`MySQL`,`mongoDB`,`SQLite`,`Tkinter`
+- **Languages and tools:** `Python`,`HTML`,`CSS`,`SQL`,`Visual Studio Code`, `Yupiter Notebook`,`Data Structures`,`Postman`,`Selenium`,`Flask`,`Pandas`,`Numpy`,`Scikit-learn`,`Matplotlib`,`LLM`,`NLP`,`MySQL`,`mongoDB`,`SQLite`,`json`,`XML`,`Tkinter`
 
 
 

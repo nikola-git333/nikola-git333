@@ -6,10 +6,6 @@
 
 <br>
 🔭 I’m currently working on improving my knowledge
-
-🌱 I’m currently learning A/B Testing on Udacity
-<br>
-⚡ Fun fact: I'm great at cooking   :spaghetti: :pinched_fingers:
 <br>
 📫 Feel free to contact me.	 nikola.jerkan43@gmail.com
 <br/>

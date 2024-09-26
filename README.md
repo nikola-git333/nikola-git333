@@ -7,7 +7,8 @@
 <br>
 🔭 I’m currently working on improving my knowledge
 <br>
-📫 Feel free to contact me.	 nikola.jerkan43@gmail.com
+
+📫 Feel free to contact me.	 [Mail](nikola.jerkan43@gmail.com)
 <br/>
 
 ### Knowledge of:

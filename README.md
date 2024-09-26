@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/nikola-jerkan-39538b311/)
+
 
 ## Hello there 👋 I'm Nikola
 ## Python Developer<br/> 

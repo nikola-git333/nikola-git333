@@ -1,6 +1,6 @@
 
 
-## Hello there 👋 I'm Nikola
+# Hello there 👋 I'm Nikola
 ## Python Developer<br/> 
 ### Passionate for coding and new technologies. :metal:
 
